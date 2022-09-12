@@ -1,6 +1,8 @@
 package day43_abstraction.cars;
 
-public class BMW extends Car{
+import day43_abstraction.cars.Car;
+
+public class BMW extends Car {
 
     @Override
     public void start() {

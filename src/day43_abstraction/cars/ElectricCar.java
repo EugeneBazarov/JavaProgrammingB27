@@ -1,6 +1,8 @@
 package day43_abstraction.cars;
 
-public abstract class ElectricCar extends Car{
+import day43_abstraction.cars.Car;
+
+public abstract class ElectricCar extends Car {
 
     public abstract void charge();
 

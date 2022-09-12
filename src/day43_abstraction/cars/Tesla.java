@@ -1,6 +1,8 @@
 package day43_abstraction.cars;
 
-public class Tesla extends ElectricCar{
+import day43_abstraction.cars.ElectricCar;
+
+public class Tesla extends ElectricCar {
 
     @Override
     public void start() {
