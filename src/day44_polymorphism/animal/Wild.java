@@ -1,4 +1,8 @@
-package day44_polymorphism;
+package day44_polymorphism.animal;
+
+import day44_polymorphism.animal.Animal;
+import day44_polymorphism.animal.Lizard;
+import day44_polymorphism.animal.Reptile;
 
 public class Wild {
     public static void main(String[] args) {
