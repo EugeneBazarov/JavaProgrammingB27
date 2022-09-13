@@ -1,6 +1,9 @@
-package day43_abstraction;
+package day43_abstraction.clothes;
 
-public class Jacket extends Clothes implements HasHood{
+import day43_abstraction.clothes.Clothes;
+import day43_abstraction.clothes.HasHood;
+
+public class Jacket extends Clothes implements HasHood {
 
 
     @Override
