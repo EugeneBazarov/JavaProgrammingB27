@@ -54,7 +54,7 @@ public class Store {
         } else if(clothes instanceof Hat){
             System.out.println("Hats cost 19.99");
         } else if(clothes instanceof TShirt){
-            System.out.println("Tshirt is 9.99");
+            System.out.println("TShirt is 9.99");
         }
 
     }
